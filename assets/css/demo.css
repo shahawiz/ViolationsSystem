@@ -197,3 +197,7 @@ p , a ,h5 {
 .close{
 	float: left !important;
 }	
+
+.table-sortable tbody tr {
+    cursor: move;
+}
